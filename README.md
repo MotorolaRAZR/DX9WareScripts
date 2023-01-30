@@ -55,7 +55,7 @@ loadstring(dx9.Get("https://raw.githubusercontent.com/soupg/DX9WareScripts/main/
 - Coded for dummies, easy to edit script with lots of comments!
 
 ```lua
-loadstring(dx9.Get("https://raw.githubusercontent.com/soupg/DX9WareScripts/main/PingAdjust.lua"))()
+loadstring(dx9.Get("https://raw.githubusercontent.com/MotorolaRAZR/DX9WareScripts/main/PingAdjust.lua"))()
 ```
 
 ---
