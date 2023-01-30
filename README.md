@@ -59,3 +59,9 @@ loadstring(dx9.Get("https://raw.githubusercontent.com/MotorolaRAZR/DX9WareScript
 ```
 
 ---
+
+# Headless Script
+- Just headless script!
+
+```lua
+loadstring(dx9.Get("https://raw.githubusercontent.com/MotorolaRAZR/DX9WareScripts/main/Headless%3F%3F.lua"))()
