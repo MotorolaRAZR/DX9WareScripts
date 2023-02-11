@@ -1,5 +1,5 @@
-local down_key = '[Y]'
-local up_key = '[P]'
+local down_key = '[Z]'
+local up_key = '[X]'
 local info_location = {169, 7} -- X, Y Location of where the info box showing ping and sense is located
 
 --// This table can be expanded / lowered / replaced. The scripts adjusts to any valid set.
